@@ -15,13 +15,13 @@ The first objective focuses on the data analysis aspect, aiming to thoroughly an
 
 --------------------------------------------------------------------------
 
-### [Link Original data] (https://www.kaggle.com/datasets/shuhengmo/uber-nyc-forhire-vehicles-trip-data-2021)
+### [Link Original data](https://www.kaggle.com/datasets/shuhengmo/uber-nyc-forhire-vehicles-trip-data-2021)
 
-### [Link sampling data] (https://www.kaggle.com/code/ahmedramadan74/sample-data)
+### [Link sampling data](https://www.kaggle.com/code/ahmedramadan74/sample-data)
 
-### [Link to download data after sampling] (https://www.kaggle.com/datasets/ahmedramadan74/uber-nyc)
+### [Link to download data after sampling](https://www.kaggle.com/datasets/ahmedramadan74/uber-nyc)
 
-### [Link Dashboard ] (https://app.powerbi.com/view?r=eyJrIjoiMjVhNzI0MTctZGQ2MC00NzMxLTkzODItNmJiY2ZhZjRhOTJlIiwidCI6IjYzMTljNGQ4LWRlMmMtNGEzNy05NzA4LWQ0MjAwYzA3NDQ5OCJ9&pageName=ReportSectionc36a20d275418b20b56c)
+### [Link Dashboard ](https://app.powerbi.com/view?r=eyJrIjoiMjVhNzI0MTctZGQ2MC00NzMxLTkzODItNmJiY2ZhZjRhOTJlIiwidCI6IjYzMTljNGQ4LWRlMmMtNGEzNy05NzA4LWQ0MjAwYzA3NDQ5OCJ9&pageName=ReportSectionc36a20d275418b20b56c)
 
 ![Analytics](https://github.com/user-attachments/assets/b569eec1-2da5-4181-9420-f5a70e9d271d)
 ![Time Series](https://github.com/user-attachments/assets/1a44e658-f185-4421-b0cc-30099ea5d14e)
